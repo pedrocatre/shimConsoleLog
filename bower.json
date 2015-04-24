@@ -1,0 +1,14 @@
+{
+  "name": "shimConsoleLog",
+  "version": "0.0.1",
+  "main": [
+    "dist/shimConsoleLog.min.js"
+  ],
+  "ignore": [
+    "src",
+    ".gitignore",
+    "bower.json",
+    "README.md",
+    "LICENSE.md"
+  ]
+}
